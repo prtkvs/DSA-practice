@@ -9,6 +9,7 @@ class ListNode {
 
 class Solution {
     public ListNode reverseList(ListNode head) {
+        //iterative approach
         if(head == null){
             return head;
         }
@@ -30,3 +31,15 @@ class Solution {
     return prev;
     }
 }
+    // recursive approach
+/* public ListNode reverseList(ListNode node) {
+    if(node == tail){
+    head = tail;
+    return;
+    }
+    reverseList(node.next); //traversed till head
+    // going backwards (out of stack)
+    tail.next = node;
+    tail = node;
+    tail.next = null;
+ */
