@@ -1,5 +1,5 @@
 
-  public class ListNode {
+  class ListNode {
       int val;
       ListNode next;
       ListNode() {}
@@ -9,8 +9,20 @@
 
 class Solution {
     public boolean isPalindrome(ListNode head) {
-    ListNode headSecond = middle(head);
-
+    ListNode mid = middle(head);
+    ListNode headSecond = reverse(mid);
+    while(head!=null&&headSecond!=null){
+        if (head.val!=headSecond.val){
+            break;
+        }
+        head = head.next;
+        headSecond = headSecond.next;
+    }
+    reverse(headSecond);
+    if (head==null || headSecond==null){
+        return true;
+    }
+    return false;
     }
     private ListNode middle(ListNode head){
         ListNode slow = head;
