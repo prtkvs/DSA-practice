@@ -27,7 +27,6 @@ class Solution {
             next = next.next; // gives null pointer exception
         }
     }
-    prev = head;
     return prev;
     }
 }
