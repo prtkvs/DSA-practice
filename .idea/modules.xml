@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/stacksnqueues/232. Implement Queue using Stacks/232. Implement Queue using Stacks.iml" filepath="$PROJECT_DIR$/stacksnqueues/232. Implement Queue using Stacks/232. Implement Queue using Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stacksnqueues/84. Largest Rectangle in Histogram/84. Largest Rectangle in Histogram.iml" filepath="$PROJECT_DIR$/stacksnqueues/84. Largest Rectangle in Histogram/84. Largest Rectangle in Histogram.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA practice.iml" filepath="$PROJECT_DIR$/DSA practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/stacksnqueues/hackerrank. Game of Two Stacks/hackerrank. Game of Two Stacks.iml" filepath="$PROJECT_DIR$/stacksnqueues/hackerrank. Game of Two Stacks/hackerrank. Game of Two Stacks.iml" />
     </modules>
