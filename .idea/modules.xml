@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinaryTrees/102. Binary Tree Level Order Traversal/102. Binary Tree Level Order Traversal.iml" filepath="$PROJECT_DIR$/BinaryTrees/102. Binary Tree Level Order Traversal/102. Binary Tree Level Order Traversal.iml" />
       <module fileurl="file://$PROJECT_DIR$/stacksnqueues/20. Valid Parentheses/20. Valid Parentheses.iml" filepath="$PROJECT_DIR$/stacksnqueues/20. Valid Parentheses/20. Valid Parentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/stacksnqueues/232. Implement Queue using Stacks/232. Implement Queue using Stacks.iml" filepath="$PROJECT_DIR$/stacksnqueues/232. Implement Queue using Stacks/232. Implement Queue using Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTrees/637. Average of Levels in Binary Tree/637. Average of Levels in Binary Tree.iml" filepath="$PROJECT_DIR$/BinaryTrees/637. Average of Levels in Binary Tree/637. Average of Levels in Binary Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/stacksnqueues/84. Largest Rectangle in Histogram/84. Largest Rectangle in Histogram.iml" filepath="$PROJECT_DIR$/stacksnqueues/84. Largest Rectangle in Histogram/84. Largest Rectangle in Histogram.iml" />
       <module fileurl="file://$PROJECT_DIR$/stacksnqueues/921. Minimum Add to Make Parentheses Valid/921. Minimum Add to Make Parentheses Valid.iml" filepath="$PROJECT_DIR$/stacksnqueues/921. Minimum Add to Make Parentheses Valid/921. Minimum Add to Make Parentheses Valid.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA practice.iml" filepath="$PROJECT_DIR$/DSA practice.iml" />
